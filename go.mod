@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/mediocregopher/radix/v4 v4.1.4
 	github.com/paulmach/go.geojson v1.5.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/tidwall/gjson v1.17.0
 )
 
