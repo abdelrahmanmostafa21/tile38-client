@@ -9,8 +9,6 @@ import (
 	"fmt"
 	"log"
 	"math"
-
-	"github.com/xjem/t38c"
 )
 
 func main() {

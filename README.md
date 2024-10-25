@@ -13,7 +13,7 @@ See what [Tile38](https://tile38.com/) is all about.
 ## Installation
 
 ```
-go get github.com/xjem/t38c@latest
+go get github.com/abdelrahmanmostafa21/tile38-client@latest
 ```
 
 ## Basic example
@@ -24,7 +24,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/xjem/t38c"
+	"github.com/abdelrahmanmostafa21/tile38-client"
 )
 
 func main() {

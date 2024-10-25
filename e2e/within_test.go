@@ -2,11 +2,11 @@ package e2e
 
 import (
 	"context"
+	t38c "github.com/abdelrahmanmostafa21/tile38-client"
 	"testing"
 
 	geojson "github.com/paulmach/go.geojson"
 	"github.com/stretchr/testify/require"
-	"github.com/xjem/t38c"
 )
 
 func testWithin(t *testing.T, client *t38c.Client) {

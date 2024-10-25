@@ -5,8 +5,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/stretchr/testify/require"
-	"github.com/xjem/t38c"
+	"github.com/abdelrahmanmostafa21/tile38-client"
 )
 
 func TestE2E(t *testing.T) {

@@ -8,8 +8,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"log"
-
-	"github.com/xjem/t38c"
 )
 
 func main() {

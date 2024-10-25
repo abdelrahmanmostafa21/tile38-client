@@ -6,8 +6,6 @@ package main
 import (
 	"context"
 	"log"
-
-	"github.com/xjem/t38c"
 )
 
 func main() {
